@@ -22,6 +22,10 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.huahuo</groupId>
+            <artifactId>compile-service</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
